@@ -1,0 +1,18 @@
+From thehawk at users.berlios.de  Mon Nov 20 22:46:39 2006
+From: thehawk at users.berlios.de (The Hawk)
+Date: Mon, 20 Nov 2006 22:46:39 +0100
+Subject: [Digiextractor-devel] testmail
+Message-ID: <4562223F.2090601@users.berlios.de>
+
+Dies ist eine testmail
+
+
+From thehawk at users.berlios.de  Wed Nov 22 17:38:30 2006
+From: thehawk at users.berlios.de (The Hawk)
+Date: Wed, 22 Nov 2006 17:38:30 +0100
+Subject: [Digiextractor-devel] test
+Message-ID: <45647D06.2010904@users.berlios.de>
+
+dies ist eine testmail
+
+
